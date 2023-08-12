@@ -3,7 +3,7 @@ from cli import cli
 
 @click.command()
 def main():
-    cli(obj={})
+    cli()
 
 if __name__ == '__main__':
     main()
