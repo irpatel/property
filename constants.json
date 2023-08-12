@@ -1,0 +1,8 @@
+{
+    "tenant_emails": [
+        "client1@example.com",
+        "client2@example.com",
+        "client3@example.com",
+        "client4@example.com"
+    ]
+}
